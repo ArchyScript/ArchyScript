@@ -1,24 +1,3 @@
-<!-- <div id="header" align="center">
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
-</div> -->
-
-<!-- <div id="badges">
-  <a href="https://www.linkedin.com/in/archyscript/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- 
-  <a href="https://twitter.com/ArchyScript">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-<p align="left"> <a href="https://twitter.com/ArchyScript" target="blank"><img src="https://img.shields.io/twitter/follow/adelabukamal?logo=twitter&style=for-the-badge" alt="Dasaolu Daniel"" /></a> </p>
-  
-</div> -->
-  
-  
-<!--    -->
-  
-<!-- <img src="https://komarev.com/ghpvc/?username=Adelabuadeleke&style=flat-square&color=blue" alt=""/> -->
 
 <h2>
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am Daniel Dasaolu (aka ArchyScript)
@@ -37,7 +16,7 @@
  <p>   I love designing pages where I am able to create enjoyable, interactive interface and experience for everyone. </p>
  <p>   I am passionate about coding, open source, and the web space ❤️ </p>
  <p>  I would love to work with your team and help bring ideas to reality! </p>
- <p> ⚡ Fun fact: I love music  </p>
+<!--  <p> ⚡ Fun fact: I love music  </p> -->
  
 <div>
 <div>
@@ -54,16 +33,20 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" style="margin-right: 30px" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+ </div>
 </div>
  
 
@@ -72,8 +55,42 @@
 <br/>
 
 
+ 
+## 🔗 Connect With Me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://archyscript.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archyscript/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArchyScript)
 
-<!-- <div>
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+<!--
+ <!-- <div id="header" align="center">
+ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
+</div> -->
+
+<!-- <div id="badges">
+  <a href="https://www.linkedin.com/in/archyscript/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+  <a href="https://twitter.com/ArchyScript">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+<p align="left"> <a href="https://twitter.com/ArchyScript" target="blank"><img src="https://img.shields.io/twitter/follow/adelabukamal?logo=twitter&style=for-the-badge" alt="Dasaolu Daniel"" /></a> </p>
+  
+</div>  
+  
+<!-- <img src="https://komarev.com/ghpvc/?username=Adelabuadeleke&style=flat-square&color=blue" alt=""/> 
+
+
+<div>
 <h1 >Technologies</h1>
 <br/>
 <div>
@@ -98,14 +115,5 @@
 <!-- 
 <br/>
 <br/> -->
- 
-## 🔗 Connect With Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://archyscript.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archyscript/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArchyScript)
-
-
----
-
 
  

@@ -21,26 +21,38 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=Adelabuadeleke&style=flat-square&color=blue" alt=""/> -->
 
 <h2>
-  Hey there, I am Daniel Dasaolu (aka ArchyScript)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am Daniel Dasaolu (aka ArchyScript)
 </h2>
 
 <br/>
+<br/>
 
-## 🚀 About Me
-- 🔭 I am a Front End Developer with a focus on MEVN (Mongodb Express Vue Node) and MERN (Mongodb Express React Node) stack.
-- 🌱 I love designing pages where I am able to create enjoyable, interactive interface and experience for everyone.
-- 🤔 I am passionate about coding, open source, and the web space ❤️
-- 👯 I would love to work with your team and help bring ideas to reality!
-- ⚡ Fun fact: I love music 
+<div>
+<h1>  🚀 About Me</h1>
+<br/>
+
+<div> 
+ 
+ <p>   I am a Front End Developer with a focus on MEVN (Mongodb Express Vue Node) and MERN (Mongodb Express React Node) stack. </p>
+ <p>   I love designing pages where I am able to create enjoyable, interactive interface and experience for everyone. </p>
+ <p>   I am passionate about coding, open source, and the web space ❤️ </p>
+ <p>  I would love to work with your team and help bring ideas to reality! </p>
+ <p> ⚡ Fun fact: I love music  </p>
+ 
+<div>
+<div>
  
  
 
+<br/>
+<br/>
 
-##  :
-<h1 align="center">:hammer_and_wrench: Languages and Tools</h1>
 
-<div align="center">
+<div>
+<h1>:hammer_and_wrench: Languages and Tools</h1>
+<br/>
+
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" style="margin-right: 30px" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -55,15 +67,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+</div>
  
 
  
+<br/>
+<br/>
+
 
 
 <div>
-<h1 align="center">Technologies</h1>
-<p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+<h1 >Technologies</h1>
+<br/>
+<p >
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5" height="30px"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>

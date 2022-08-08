@@ -66,11 +66,30 @@
 <h1> 🔗 Connect With Me </h1>
 <br/>
  
+  <div>
+    
+  <a href="https://archyscript.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white" height="30px"/>
+  </a>
+    
+  <a href="https://www.linkedin.com/in/archyscript/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=0A66C2&style=plastic&logo=linkedin&logo-color=white" height="30px"/>
+  </a>
+    
+  <a href="https://twitter.com/ArchyScript" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=1DA1F2&style=plastic&logo=twitter&logo-color=white" height="30px"/>
+  </a>
+     
+  <a href="https://www.canva.com/design/DAEuiM5OxmY/5b3k30CAPHBD5JBnDB4HRw/view?utm_content=DAEuiM5OxmY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white" height="30px"/>
+  </a>
+    
+  </div>
  
-<span height="30px"> [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://archyscript.netlify.app/) </span> 
+<!-- <span height="30px"> [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://archyscript.netlify.app/) </span> 
 <span> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archyscript/)  </span> 
 <span> [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArchyScript)  </span> 
-
+ -->
  </div>
  
  

@@ -12,7 +12,7 @@
 
 <div> 
  
- -   #### I am a Front End Developer with a focus on MEVN (Mongodb Express Vue Node) and MERN (Mongodb Express React Node) stack.  
+ -   #### I am a Front End Developer with a focus on MEVN (Mongodb Express Vue Node) stack.  
  -    #### I love designing pages where I am able to create enjoyable, interactive interface and experience for everyone.  
  -    #### I am passionate about coding, open source, and the web space ❤️  
  -   #### I would love to work with your team and help bring ideas to reality.  

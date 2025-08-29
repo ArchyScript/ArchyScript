@@ -68,7 +68,7 @@
  
   <div>
     
-  <a href="https://archyscript.netlify.app/" target="_blank">
+  <a href="https://archyscript.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white" height="30px"/>
   </a>
     
